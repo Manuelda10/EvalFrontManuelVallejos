@@ -12,7 +12,7 @@ const Header = () => {
                 <li><a href='#' >Horizonte</a></li>
                 <li><a href='#' >Firmas</a></li>
                 <li><a href='#' >Acerca de</a></li>
-                <li><a href='#' >Iniciar sesión</a></li>
+                <li><a href='#login' >Iniciar sesión</a></li>
             </ul>
         </nav>
         <div className='logo-container'>

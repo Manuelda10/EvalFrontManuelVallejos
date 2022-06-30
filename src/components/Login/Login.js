@@ -3,7 +3,7 @@ import logoImg from '../../assets/logo.png'
 import './index.css'
 
 const Login = () => {
-    return (<div className='login'>
+    return (<div className='login' id="login">
         <div className='login-form-container'>
             <div className='login-container-inside'>
                 <h1>Bienvenido a BPI</h1>
