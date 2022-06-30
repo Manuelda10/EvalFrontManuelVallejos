@@ -1,3 +1,5 @@
+Para instalar las dependencias correr: 
+npm install
 Para correr el proyecto correr el comando:
 npm start
 
