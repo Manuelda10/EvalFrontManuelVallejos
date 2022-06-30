@@ -81,10 +81,9 @@ a{
 
     .menu {
         position: fixed;
-        width: 12rem;
+        width: 8rem;
         bottom: 50px;
         right: 50px;
-        background-color: aquamarine;
         transform: translate(150%, 120%);
         transition: ease 0.3s;
     }
@@ -97,7 +96,12 @@ a{
         display: block;
         list-style: none;
         padding-left: 0;
-        background-color: rebeccapurple;
+        background-color: #545854;
+        color: white;
+    }
+
+    .menu ul li a {
+        color: white;
     }
 }
 
